@@ -61,10 +61,6 @@ To tear down the resources created by this Terraform configuration, run:
 terraform destroy
 ```
 
-## Contributing
-
-We welcome contributions to improve this project. Feel free to open issues or submit pull requests!
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
